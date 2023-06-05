@@ -1,0 +1,75 @@
+
+Discover Sensitive Information on GitHub
+
+🔍 Discover Sensitive Information on GitHub with these Powerful Search Queries! 🔍
+
+Are you ready to take your GitHub reconnaissance to the next level? Here are some search queries that can help you uncover sensitive information, credentials, and potential security vulnerabilities. Just copy and paste these queries into the GitHub search bar:
+
+Queries👇
+
+"bucket_password"
+
+"bucketeer_aws_access_key_id"
+
+"bucketeer_aws_secret_access_key"
+
+"docker_passwd"
+
+"docker_password"
+
+"dockerhub_password"
+
+"dockerhubpassword"
+
+"app_secret"
+
+"appkey"
+
+"ppkeysecret"
+
+"application_key"
+
+"appsecret"
+
+"appspot"
+
+"auth_token"
+
+"authorizationToken"
+
+"access_key"
+
+"access_token"
+
+"admin_pass"
+
+"admin_user"
+
+"datadog_api_key"
+
+"datadog_app_key"
+
+"db_password"
+
+"db_server"
+
+"db_username"
+
+"dbpasswd"
+
+"dbpassword"
+
+"dbuser"
+
+"browserstack_access_key"
+
+"filename:_netrc password"
+
+"filename:.bash_history"
+
+"filename:server.cfg rcon password"
+
+"filename:settings"
+
+
+🔥 Use these search queries to find repositories containing potentially sensitive information. However, it's important to use them responsibly and ethically, adhering to proper security research guidelines.
